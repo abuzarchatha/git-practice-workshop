@@ -1,0 +1,21 @@
+[33mcommit eabbaaeef9e99aac91b86c7936d04e5a9dca2e65[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mfeature-add-student[m[33m)[m
+Author: zari <abuzarchatha00786@gmail.com>
+Date:   Tue Dec 2 14:59:59 2025 +0500
+
+    initail project structure added
+
+[1mdiff --git a/.gitignore b/.gitignore[m
+[1mnew file mode 100644[m
+[1mindex 0000000..46b134b[m
+[1m--- /dev/null[m
+[1m+++ b/.gitignore[m
+[36m@@ -0,0 +1 @@[m
+[32m+[m[32mÿþ[m
+\ No newline at end of file[m
+[1mdiff --git a/README.md b/README.md[m
+[1mnew file mode 100644[m
+[1mindex 0000000..5da37bc[m
+Binary files /dev/null and b/README.md differ
+[1mdiff --git a/app.js b/app.js[m
+[1mnew file mode 100644[m
+[1mindex 0000000..e69de29[m
